@@ -1,0 +1,10 @@
+{
+  "description": "Manage analytics migrations from discovery through modernization with asset tracking, validation, wave planning, and cutover insights for BI teams.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
