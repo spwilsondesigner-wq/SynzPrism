@@ -15,8 +15,8 @@ SynzPrism is a fictional workspace for teams moving a BI estate from Qlik to Pow
 
 ## Links
 
-- **Figma design file:** `<add Figma link here>`
-- **Live preview:** `<add deployed / Figma Make preview link here>`
+- **Figma design file:** https://www.figma.com/design/HpjYvHdcQq5jn1MrQKkVig/SynzPrism-%E2%80%93-Wireframes?node-id=0-1&t=QTW1QBPeCUx6HLFg-1
+- **Live preview:** https://horse-sienna-76460480.figma.site
 
 ---
 
